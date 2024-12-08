@@ -68,8 +68,8 @@
     font-size: medium;
     font-weight: 500;
     width: 100%;
-    display: flex;
-    flex: 1;
+    resize: both;
+    overflow: auto;
 }
 .button-watch {
     font-family: Arial;
