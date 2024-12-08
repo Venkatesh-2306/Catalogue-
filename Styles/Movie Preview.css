@@ -3,7 +3,7 @@
     font-size: x-large;
     margin-top: 30px;
     margin-bottom: -5px;
-    width: 500px;
+    width: 100%;
 }
 .movie-grid-column {
     display: grid;
@@ -67,7 +67,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     font-weight: 500;
-    width: 80%;
+    width: 100%;
 }
 .button-watch {
     font-family: Arial;
