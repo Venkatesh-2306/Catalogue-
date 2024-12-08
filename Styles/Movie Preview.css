@@ -11,26 +11,25 @@
     column-gap: 10px;
     align-items: center;
     margin-bottom: 30px;
-    justify-content: center;
 }
 @media (max-width: 1150px) {
     .movie-grid-column {
-        grid-template-columns: 200px 200px 200px 200px 200px;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     }
 }
 @media (max-width: 950px) {
     .movie-grid-column {
-        grid-template-columns: 200px 200px 200px 200px;
+        grid-template-columns: 1fr 1fe 1fr 1fr;
     }
 }
 @media (max-width: 750px) {
     .movie-grid-column {
-        grid-template-columns: 200px 200px 200px;
+        grid-template-columns: 1fr 1fr 1fr;
     }
 }
 @media (max-width: 550px) {
     .movie-grid-column {
-        grid-template-columns: 200px 200px;
+        grid-template-columns: 1fr 1fr;
     }
 }
 .movie-preview {
