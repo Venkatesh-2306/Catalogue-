@@ -68,7 +68,7 @@
     font-size: medium;
     font-weight: 500;
     width: 100%;
-    resize: both;
+    resize: vertical;
     overflow: auto;
 }
 .button-watch {
